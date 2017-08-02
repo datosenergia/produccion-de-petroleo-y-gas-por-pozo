@@ -130,7 +130,7 @@ Recursos disponibles
 
 - **adjiv_fecha_inicio (date):** Fecha de inicio de perforación del pozo
 
-- **adjiv_equipo_utilizar (string):** Equipo de utilizar de perforación del pozo
+- **adjiv_equipo_utilizar (string):** Equipo de perforación del pozo
 
 - **adjiv_capacidad_perf (number):** Capacidad de perforación del pozo
 
