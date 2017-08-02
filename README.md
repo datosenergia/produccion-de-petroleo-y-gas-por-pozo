@@ -146,7 +146,7 @@ Recursos disponibles
 
 - **adjiv_fecha_abandono (date):** Fecha de abandono del pozo
 
--- **adjiv_clasificacion (string):** Clasificacion del pozo
+- **adjiv_clasificacion (string):** Clasificacion del pozo
 
 - **adjiv_subclasificacion (string):** Subclasificacion del pozo
 
