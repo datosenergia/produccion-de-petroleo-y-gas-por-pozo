@@ -108,7 +108,7 @@ Recursos disponibles
 
 - **coordenaday (number):** Longitud en grados decimales según proyección WGS84 en coordenadas geográficas
 
-- **cota (number):** Longitud en grados decimales según proyección WGS84 en coordenadas geográficas
+- **cota (number):** Altura sobre el nivel del mar
 
 - **profundidad (number):** Profundidad máxima del pozo
 
