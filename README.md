@@ -38,8 +38,6 @@ Recursos disponibles
 
 - **Formato:** Sitio web de consulta de datos
 
-- **Rango temporal:** listado actualizado a la fecha consignada como "Datos actualizados al"
-
 #### Campos del recurso
 
 - No aplica
