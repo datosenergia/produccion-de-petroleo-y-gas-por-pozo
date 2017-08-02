@@ -70,7 +70,7 @@ Recursos disponibles
 
 ### Listado de pozos cargados por empresas operadoras
 
-- **URL de acceso:** http://datos.minem.gob.ar/dataset/produccion-de-petroleo-y-gas-por-pozo/archivo/df4857e1-7c3f-4980-b5b5-184fe78bfcf0
+- **URL de acceso:** https://datos.minem.gob.ar/dataset/produccion-de-petroleo-y-gas-por-pozo/archivo/cbfa4d79-ffb3-4096-bab5-eb0dde9a8385
 
 - **Nombre del archivo:** http://datos.minem.gob.ar/dataset/c846e79c-026c-4040-897f-1ad3543b407c/resource/cb5c0f04-7835-45cd-b982-3e25ca7d7751/download/capitulo-iv-pozos.csv
 
