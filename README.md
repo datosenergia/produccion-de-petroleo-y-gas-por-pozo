@@ -193,8 +193,6 @@ Recursos disponibles
 
 - **Formato:** CSV delimitado por comas, codificado en UTF-8
 
-- **Odata:** http://datos.minem.gob.ar/datastore/odata3.0/df4857e1-7c3f-4980-b5b5-184fe78bfcf0
-
 - **Rango temporal:** listado actualizado a la fecha consignada como "Datos actualizados al"
 
 #### Campos del recurso
