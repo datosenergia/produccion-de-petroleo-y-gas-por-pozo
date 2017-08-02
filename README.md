@@ -13,7 +13,7 @@ Características
 
 - **Fecha de Primera Publicación:** 2017-07-24
 
-- **Tags o Etiquetas:** Gas , Hidrocarburos , Petróleo, Pozos, Producción
+- **Tags o Etiquetas:** Gas, Hidrocarburos, Petróleo, Pozos, Producción
 
 - **Organización:** Ministerio de Energía y Minería
 
