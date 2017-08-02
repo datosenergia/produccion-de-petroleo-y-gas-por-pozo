@@ -154,8 +154,6 @@ Recursos disponibles
 
 - **adjiv_comp_perf (integer):** Compañía que realizó la perforación del pozo
 
-- **unique_sigla_formprod (integer):** Sigla de la formación productiva 
-
 - **areapermisoconcesion (string):** Nombre del área, permiso o concesión 
 
 - **areayacimiento (string):** Nombre del yacimiento
