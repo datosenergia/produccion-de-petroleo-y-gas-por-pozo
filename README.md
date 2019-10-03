@@ -13,13 +13,15 @@ Características
 
 - **Fecha de Primera Publicación:** 2017-07-24
 
+- **Fecha de Actualización:** 2019-10-03
+
 - **Tags o Etiquetas:** Gas, Hidrocarburos, Petróleo, Pozos, Producción
 
-- **Organización:** Ministerio de Energía y Minería
+- **Organización:** Secretaría de Gobierno de Energía
 
-- **Autor:** Ministerio de Energía y Minería.Secretaría de Recursos Hidrocarburíferos.Subsecretaría de Exploración y Producción.Dirección Nacional de Exploración y Producción
+- **Autor:** Secretaría de Gobierno de Energía.Subsecretaría de Planeamiento Energético.Dirección Nacional de Información Energética. 
 
-- **Responsable:** Ministerio de Energía y Minería.Secretaría de Recursos Hidrocarburíferos.Subsecretaría de Exploración y Producción.Dirección Nacional de Exploración y Producción
+- **Responsable:** Secretaría de Gobierno de Energía.Secretaría de Recursos No Renovables y Mercado de los Combustibles.Subsecretaría de Hidrocarburos y Combustibles.Dirección Nacional de Exploración y Producción.
 
 - **Grupo:** Exploración y Producción de Hidrocarburos
 
@@ -201,7 +203,7 @@ Recursos disponibles
 
 - **mes (integer):** Mes informado
 
-- **idpozo (integer):** Identificador del pozo
+- **idpozo (integer):** Identificador del pozo por formación productiva
 
 - **prod_pet (number):** Producción de petróleo (en m3)
 
@@ -209,13 +211,13 @@ Recursos disponibles
 
 - **prod_agua (number):** Producción de agua (en m3)
 
-- **iny_agua (number):** Inyección de agua acumulada al 31 de dicembre de 2005
+- **iny_agua (number):** Inyección de agua (en m3)
 
-- **iny_gas (number):** Inyección de gas acumulada al 31 de dicembre de 2005
+- **iny_gas (number):** Inyección de gas (en miles de m3)
 
-- **iny_co2 (number):** Inyección de CO2 acumulada al 31 de dicembre de 2005
+- **iny_co2 (number):** Inyección de CO2 (en miles de m3)
 
-- **iny_otro(number):** Inyección de otros productos acumulada al 31 de dicembre de 2005
+- **iny_otro(number):** Inyección de otros productos (en m3)
 
 - **tef (number):** Tiempo efectivo de funcionamiento del pozo
 
@@ -239,13 +241,13 @@ Recursos disponibles
 
 - **empresa (string):** Nombre de la empresa operadora
 
-- **sigla (string):** Sigla de la formación productiva 
+- **sigla (string):** Identificador único de la boca del pozo
 
-- **formprod (string):** Formación productiva
+- **formprod (string):** Identificador de la formación productiva
 
 - **profundidad (number):** Profundidad del pozo
 
-- **formacion (string):** Identificador de la formación productiva
+- **formacion (string):** Formación productiva
 
 - **idareapermisoconcesion (string):** Identificador del área, permiso o concesión
 
