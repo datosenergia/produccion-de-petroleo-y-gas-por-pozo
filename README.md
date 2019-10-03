@@ -271,7 +271,7 @@ Recursos disponibles
 
 - **sub_tipo_recurso (string):** Tipo de Recurso hidrocarburífero
 
-- **fecha_data (date):** Tipo de Recurso hidrocarburífero
+
 
 
 
