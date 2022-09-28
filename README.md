@@ -9,7 +9,7 @@ Petróleo [m3], gas en [Miles de m3] y agua en [m3].
 
 Características
 ---------------
-- **URL de acceso:** http://datos.minem.gob.ar/dataset/produccion-de-petroleo-y-gas-por-pozo
+- **URL de acceso:** http://datos.energia.gob.ar/dataset/produccion-de-petroleo-y-gas-por-pozo
 
 - **Fecha de Primera Publicación:** 2017-07-24
 
@@ -46,15 +46,15 @@ Recursos disponibles
 
 ### Capítulo IV - Pozos
 
-- **URL de acceso:** http://datos.minem.gob.ar/dataset/produccion-de-petroleo-y-gas-por-pozo/archivo/cb5c0f04-7835-45cd-b982-3e25ca7d7751
+- **URL de acceso:** http://datos.energia.gob.ar/dataset/produccion-de-petroleo-y-gas-por-pozo/archivo/cb5c0f04-7835-45cd-b982-3e25ca7d7751
 
-- **Nombre del archivo:** http://datos.minem.gob.ar/dataset/c846e79c-026c-4040-897f-1ad3543b407c/resource/cb5c0f04-7835-45cd-b982-3e25ca7d7751/download/capitulo-iv-pozos.csv
+- **Nombre del archivo:** http://datos.energia.gob.ar/dataset/c846e79c-026c-4040-897f-1ad3543b407c/resource/cb5c0f04-7835-45cd-b982-3e25ca7d7751/download/capitulo-iv-pozos.csv
 
 - **Descripción:** Consultas de producción por pozo, yacimiento, concesión y provincia. Petróleo [m3], gas en [Miles de m3] y agua en [m3]
 
 - **Formato:** CSV delimitado por comas, codificado en UTF-8
 
-- **Odata:** http://datos.minem.gob.ar/datastore/odata3.0/cb5c0f04-7835-45cd-b982-3e25ca7d7751
+- **Odata:** http://datos.energia.gob.ar/datastore/odata3.0/cb5c0f04-7835-45cd-b982-3e25ca7d7751
 
 - **Rango temporal:** listado actualizado a la fecha consignada como "Fecha de actualización"
 
@@ -72,15 +72,15 @@ Recursos disponibles
 
 ### Listado de pozos cargados por empresas operadoras
 
-- **URL de acceso:** https://datos.minem.gob.ar/dataset/produccion-de-petroleo-y-gas-por-pozo/archivo/cbfa4d79-ffb3-4096-bab5-eb0dde9a8385
+- **URL de acceso:** https://datos.energia.gob.ar/dataset/produccion-de-petroleo-y-gas-por-pozo/archivo/cbfa4d79-ffb3-4096-bab5-eb0dde9a8385
 
-- **Nombre del archivo:** http://datos.minem.gob.ar/dataset/c846e79c-026c-4040-897f-1ad3543b407c/resource/cbfa4d79-ffb3-4096-bab5-eb0dde9a8385/download/listado-de-pozos-cargados-por-empresas-operadoras.csv
+- **Nombre del archivo:** http://datos.energia.gob.ar/dataset/c846e79c-026c-4040-897f-1ad3543b407c/resource/cbfa4d79-ffb3-4096-bab5-eb0dde9a8385/download/listado-de-pozos-cargados-por-empresas-operadoras.csv
 
 - **Descripción:** Consultas de producción por pozo, yacimiento, concesión y provincia. Petróleo [m3], gas en [Miles de m3] y agua en [m3]
 
 - **Formato:** CSV delimitado por comas, codificado en UTF-8
 
-- **Odata:** http://datos.minem.gob.ar/datastore/odata3.0/cbfa4d79-ffb3-4096-bab5-eb0dde9a8385
+- **Odata:** http://datos.energia.gob.ar/datastore/odata3.0/cbfa4d79-ffb3-4096-bab5-eb0dde9a8385
 
 - **Rango temporal:** listado actualizado a la fecha consignada como "Fecha de actualización"
 
